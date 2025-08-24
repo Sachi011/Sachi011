@@ -63,11 +63,11 @@ Bachelor of Engineering in Computer Engineering, University of Pune, India (2019
 - **NASA Space Apps Hackathon:** Co-developed a seismic detection system with 82% accuracy for interplanetary data transmission challenges.  
 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sachi011&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sachi011&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachi011&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachikenjale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachi.g.kenjale@gmail.com) 
