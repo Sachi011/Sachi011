@@ -63,6 +63,7 @@ Bachelor of Engineering in Computer Engineering, University of Pune, India (2019
 - **NASA Space Apps Hackathon:** Co-developed a seismic detection system with 82% accuracy for interplanetary data transmission challenges.  
 
 
+
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sachi011&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sachi011&theme=tokyonight&hide_border=false)<br/>
